@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://github.com/amideo-7/amideo-7/blob/513a2e084d467f8a30a29644bc3486d5766231cf/Images/Banner.png" alt="amideo-7" /> </p>
+
 <h1 align="center">Namaste 🙏 I'm Aayush Sharma</h1>
 <h3 align="center">A Dreamer</h3>
 
