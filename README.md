@@ -54,25 +54,16 @@
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/amideo-7/amideo-7/blob/068a2a98b87d1e14417b151bb2ef120d534ddf0f/Images/vscode.png" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/amideo-7/amideo-7/blob/56b2e47604370516e09d2e5db9936b0c08ec0d34/Images/jupyternbk.png" alt="jupyternbk" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/amideo-7/amideo-7/blob/56b2e47604370516e09d2e5db9936b0c08ec0d34/Images/PyCharm_icon.png" alt="pycharm" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/dataspell/" target="_blank" rel="noreferrer"> <img src="https://github.com/amideo-7/amideo-7/blob/56b2e47604370516e09d2e5db9936b0c08ec0d34/Images/DataSpell_icon.png" alt="dataspell" width="40" height="40"/> </a> 
+<a href="https://colab.google/" target="_blank" rel="noreferrer"> <img src="https://github.com/amideo-7/amideo-7/blob/56b2e47604370516e09d2e5db9936b0c08ec0d34/Images/Google_Colaboratory_SVG_Logo.svg.png" alt="googlecolab" width="40" height="40"/> </a> 
 </p>
 
+<h3>Other Tools:</h3>
 <p align="left">  
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-
-
- 
-
-
-
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-    
-
-     
-
-
  </p>
 
 <h3 align="left">Connect with me:</h3>
