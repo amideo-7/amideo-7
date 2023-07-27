@@ -73,3 +73,4 @@
 <a href="https://instagram.com/_._kaptured_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._kaptured_" height="30" width="40" /></a>
 
 </p>
+
