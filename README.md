@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/amideo-7/amideo-7/blob/fd34e70b0f397aa3935bbd9144765dd282028605/Images/Banner.gif" alt="amideo-7" /> </p>
+<p align="center"> <img src="https://github.com/amideo-7/amideo-7/blob/6d9d4c0668e10bccc50abf9b732e5f2f12c9a95d/Images/Banner.gif" alt="amideo-7" /> </p>
 
 <h1 align="center">Hi! I'm Aayush Sharma 👾</h1>
 
