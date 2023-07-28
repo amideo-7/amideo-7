@@ -3,12 +3,11 @@
 <h1 align="center">Hi! I'm <span style="color: #FF4F4F;">Aayush Sharma</span> 👾</h1>
 
 <p align="center">
-<a href="https://linkedin.com/in/aayush-sharma-646449204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush-sharma-646449204" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/aayushs47212218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayushs47212218" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/_._kaptured_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._kaptured_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aayush-sharma-646449204" target="blank"><img align="center" src="https://github.com/amideo-7/amideo-7/blob/d42c93c20b1771fa18889d2670ff798fe9df0133/Images/linkedin.png" alt="aayush-sharma-646449204" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/aayushs47212218" target="blank"><img align="center" src="https://github.com/amideo-7/amideo-7/blob/d42c93c20b1771fa18889d2670ff798fe9df0133/Images/twitter-x-seeklogo.com-4.png" alt="aayushs47212218" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/_._kaptured_" target="blank"><img align="center" src="https://github.com/amideo-7/amideo-7/blob/d42c93c20b1771fa18889d2670ff798fe9df0133/Images/instagram.png" alt="_._kaptured_" height="30" width="30" /></a>
 </p>
 
-<br>
 
 - 🔭 I’m currently working on **"Houm: A Smart Real-Estate Website"**
 
