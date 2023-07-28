@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://github.com/amideo-7/amideo-7/blob/6d9d4c0668e10bccc50abf9b732e5f2f12c9a95d/Images/Banner.gif" alt="amideo-7" /> </p>
 
-<h1 align="center">Hi! I'm Aayush Sharma 👾</h1>
+<h1 align="center">Hi! I'm <span style="color: #FF4F4F;">Aayush Sharma</span> 👾</h1>
 
 
 
@@ -74,3 +74,41 @@
 
 </p>
 
+
+<style>
+  .image-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .image-item {
+    text-align: center;
+  }
+
+  .image-item img {
+    width: 40px; /* Adjust the width of the images as needed */
+    height: auto; /* To maintain the aspect ratio */
+  }
+</style>
+
+<div class="image-container">
+  <div class="image-item">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><p>Python</p></a>
+  </div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <div class="image-item">
+    <a href="https://www.geeksforgeeks.org/sql-tutorial/" target="_blank" rel="noreferrer"> <img src="https://github.com/amideo-7/amideo-7/blob/99e34493e837bd8acf202a46f23aad0ecb7558f6/Images/sql.png" alt="sql" width="40" height="40"/><p>SQL</p></a>
+  </div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <div class="image-item">
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><p>C</p></a>
+  </div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <div class="image-item">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><p>JavaScript</p></a>
+  </div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <div class="image-item">
+    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/><p>Rust</p></a>
+  </div>
+</div>
