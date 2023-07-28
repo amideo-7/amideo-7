@@ -8,6 +8,7 @@
 <a href="https://instagram.com/_._kaptured_" target="blank"><img align="center" src="https://github.com/amideo-7/amideo-7/blob/d42c93c20b1771fa18889d2670ff798fe9df0133/Images/instagram.png" alt="_._kaptured_" height="30" width="30" /></a>
 </p>
 
+<br>
 
 - 🔭 I’m currently working on **"Houm: A Smart Real-Estate Website"**
 
