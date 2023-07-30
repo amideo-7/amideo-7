@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/aayush-sharma-646449204" target="blank"><img align="center" src="https://github.com/amideo-7/amideo-7/blob/d42c93c20b1771fa18889d2670ff798fe9df0133/Images/linkedin.png" alt="aayush-sharma-646449204" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/aayushs47212218" target="blank"><img align="center" src="https://github.com/amideo-7/amideo-7/blob/16358df058c8de3f1a5c769423dc594566292a3b/Images/twitter-x-seeklogo.com-4.png" alt="aayushs47212218" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/aayushs47212218" target="blank"><img align="center" src="https://github.com/amideo-7/amideo-7/blob/16358df058c8de3f1a5c769423dc594566292a3b/Images/twitter-x-seeklogo.com-4.png" alt="aayushs47212218" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/_._kaptured_" target="blank"><img align="center" src="https://github.com/amideo-7/amideo-7/blob/d42c93c20b1771fa18889d2670ff798fe9df0133/Images/instagram.png" alt="_._kaptured_" height="30" width="30" /></a>
 </p>
 
