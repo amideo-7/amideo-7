@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://github.com/amideo-7/amideo-7/blob/6d9d4c0668e10bccc50abf9b732e5f2f12c9a95d/Images/Banner.gif" alt="amideo-7" /> </p>
 
-<h1 align="center">Hi! I'm <img align="center" src="https://github.com/amideo-7/amideo-7/blob/83eb5c6ef49affc361006b41ad19b4d8c69c6946/Images/name.png" width="200" /> 👾</h1>
+<h1 align="center">Hi! I'm <img align="center" src="https://github.com/amideo-7/amideo-7/blob/83eb5c6ef49affc361006b41ad19b4d8c69c6946/Images/name.png" width="250" /> 👾</h1>
 
 <p align="center">
 <a href="https://linkedin.com/in/aayush-sharma-646449204" target="blank"><img align="center" src="https://github.com/amideo-7/amideo-7/blob/d42c93c20b1771fa18889d2670ff798fe9df0133/Images/linkedin.png" alt="aayush-sharma-646449204" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
